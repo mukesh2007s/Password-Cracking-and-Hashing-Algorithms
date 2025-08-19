@@ -1,5 +1,4 @@
-# Password-Cracking-and-Hashing-Algorithms
- Codec Technologies - Cybersecurity internship project
+Codec Technologies - Cybersecurity internship project
 # Cryptography Algorithms Implementation (AES & RSA) — Simple Demo
 
 This mini-project shows **two fundamental cryptography techniques** using Python:
